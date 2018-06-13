@@ -1,0 +1,11 @@
+body{
+    background-image: url('/resources/tyler-lastovich-616849-unsplash.jpg');
+    background-position: center;
+    color: white;
+}
+
+.container{
+    text-align: center;
+    margin-top: 10%;
+    width: 520px;
+}
